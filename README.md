@@ -7,4 +7,7 @@ DOSEN PENGAMPU : DEWI RAHMAWATI, S. Kom., M.Kokm.
 All the files for submit Grafika Computer tasks
 Semua file yang ada di sini adalah untuk menyelesaikan tugas tugas dari matkul ini.
 
+FORMAT TUGAS : GK[nomor urut tugas]
+FORMAT HASIL MEET : MEET[nomor urut meet]
+
 
